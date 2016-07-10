@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Ok to Roam
+description: My Blog
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://oktoroam.com
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -16,13 +16,14 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Contact
-   url: /contact
+# - title: Contact
+#   url: /contact
 
-social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+# social:
+#   github: 
+#   twitter: 
+#   facebook: 
+#   email: 
 
-google_analytics: "UA-58263416-1"
+google_analytics: "UA-74836913-2"
+
